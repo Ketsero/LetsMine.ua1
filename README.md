@@ -1,4 +1,4 @@
-# Головна Сторінка Проекту 
+# Головна Сторінка Проекту LetsMine.ua
 <html>
 <title>Головна Сторінка Проекту LetsMine.ua</title>
 <body style="font-family:san-serif">
