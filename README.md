@@ -1,6 +1,6 @@
-# LetsMine.ua1
+# Головна Сторінка Проекту 
 <html>
-<title>Головна Сторінка Проекту LetsMine.ua</title> 
+<title>Головна Сторінка Проекту LetsMine.ua</title>
 <body style="font-family:san-serif">
 <header style="background-color:black; color:white">
 <a href=""</a>
